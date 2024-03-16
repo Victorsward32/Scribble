@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693014783613",
+    "project_id": "nitroponic",
+    "storage_bucket": "nitroponic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693014783613:android:5ab1856225499a9137b314",
+        "android_client_info": {
+          "package_name": "com.example.firebaseforiotconnections"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXOg8wjNeb9fLySS9JYaJ4iQka_SZ55KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693014783613:android:7ec303e490a8f12a37b314",
+        "android_client_info": {
+          "package_name": "com.example.scribble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXOg8wjNeb9fLySS9JYaJ4iQka_SZ55KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
